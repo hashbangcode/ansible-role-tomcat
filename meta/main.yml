@@ -1,0 +1,24 @@
+---
+
+dependencies: []
+
+galaxy_info:
+  author: philipnorton42
+  description: Tomcat for Linux
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - jessie
+    - wheezy
+  - name: EL
+    versions:
+    - 6
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+  categories:
+    - system
+    - web
